@@ -5,7 +5,7 @@
 + __Covid19__ Salgını ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __100__ saattir. Dersler __Cuma__Pazar__ günleri __21:00 - 00:00__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __100__ saattir. Dersler __Cumartesi__Pazar__ günleri __21:00 - 00:00__ saatleri arasında yapılacaktır.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-kursu-09.12.2022/blob/main/kurs_tanitimi.md)
